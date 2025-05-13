@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
