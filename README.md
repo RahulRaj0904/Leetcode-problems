@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0067-add-binary) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
@@ -50,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0067-add-binary) |
 ## Bit Manipulation
