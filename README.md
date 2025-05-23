@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0067-add-binary) |
 ## Array
 |  |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
