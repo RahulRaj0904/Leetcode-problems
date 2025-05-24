@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -51,6 +53,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
