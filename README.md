@@ -12,6 +12,7 @@
 | [0043-multiply-strings](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RahulRaj0904/Leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
